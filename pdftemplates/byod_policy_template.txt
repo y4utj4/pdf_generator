@@ -1,0 +1,5 @@
+ACME Co. has completed an update to the BYOD Policy. Please review the changes below and click the link to verify you've read and the changes no later than Friday <br /><br />
+-  Personal Cellular devices, including tablets, will be allowed to connect to the ACME Co's Guest Network.<br />
+-  Personal laptops are NOT to be used for any official business, including email unless accessing the webmail portal<br />
+-  Personal Cellular devices, including tablets, are not to be used to store sensitive or personal information.<br />
+-  ACME Co. owned devices are not to be jailbroken or rooted. If discovered, immediate forfeiture of the device will be conducted.<br /><br />
