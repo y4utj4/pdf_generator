@@ -1,5 +1,9 @@
-ACME Co. has completed an update to the BYOD Policy. Please review the changes below and click the link to verify you've read and the changes no later than Friday <br /><br />
--  Personal Cellular devices, including tablets, will be allowed to connect to the ACME Co's Guest Network.<br />
--  Personal laptops are NOT to be used for any official business, including email unless accessing the webmail portal<br />
--  Personal Cellular devices, including tablets, are not to be used to store sensitive or personal information.<br />
--  ACME Co. owned devices are not to be jailbroken or rooted. If discovered, immediate forfeiture of the device will be conducted.<br /><br />
+<font size="14">Policy Memorandum</font><br /><br />
+
+<strong>Purpose:</strong>Weyland Corp. has completed an update to the BYOD Policy. Please review the changes below and click the link to verify you've read and the changes no later than <strong>FRIDAY</strong>.<br /><br /> <strong>Scope:</strong> This memorandum applies to all Weyland Corp. Employees<br /><br />
+
+As of the date of this email, the following changes are to be followed as such with Weyland Corp's BYOD Policy: <br /><br />
+<font size="8">&nbsp;&nbsp;-&nbsp;&nbsp;Personal Cellular devices, including tablets, will be allowed to connect to the Weyland Corp's Guest Network for personal use, but must adhere to the company's Acceptable Use Policy as this network is monitored.<br /></font>
+<font size="8">&nbsp;&nbsp;-&nbsp;&nbsp;Personal laptops are NOT to be used for any official business, including email unless accessing the webmail portal.<br /></font>
+<font size="8">&nbsp;&nbsp;-&nbsp;&nbsp;Personal Cellular devices, including tablets, are not to be used to store sensitive or personal information.<br /></font>
+<font size="8">&nbsp;&nbsp;-&nbsp;&nbsp;Weyland Corp. owned devices are not to be jailbroken or rooted. If discovered, immediate forfeiture of the device will occur.<br /><br /></font>
